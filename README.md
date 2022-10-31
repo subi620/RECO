@@ -12,17 +12,19 @@
 <br/>
 
 ## Main Contents
-<h5>- 일반 쓰레기통 위치 지도표시<br/>- 자체 제작 IoT 쓰레기통(Reco Bin)을 통해 재활용 사진 인증 시 포인트 적립<br/>- QR인식 후 재활용 마크를 통해 재활용과 일반 쓰레기 구분<br/>- 환경퀴즈 및 이벤트 참여<br/>- 적립한 포인트로 기프티콘 구매 가능</h5>
+<h5> - 일반 쓰레기통 위치 지도표시<br/> - 자체 제작 IoT 쓰레기통(Reco Bin)을 통해 재활용 사진 인증 시 포인트 적립<br/> - QR인식 후 재활용 마크를 통해 재활용과 일반 쓰레기 구분<br/> - 환경퀴즈 및 이벤트 참여<br/> - 적립한 포인트로 기프티콘 구매 가능</h5>
 
 <br/>
 
 ## BMC(비즈니스모델캔버스)
+<img width="80%" src="https://user-images.githubusercontent.com/92639359/198973311-eb90487f-116d-422c-a16c-765f91aa83b0.PNG"/>
 
 
 <br/>
 
-## Teams 
-> HYWU Smart IT.
+## Team 
+> HYWU Smart IT 
+>> TEAM RECO
 
 <br/>
 
