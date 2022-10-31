@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".LoginAdmin">
+
+    <androidx.appcompat.widget.SearchView
+        android:id="@+id/login_searchView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:queryHint="검색" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:paddingLeft="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+
+        <TextView
+            android:id="@+id/service_num"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:text="이름"
+            android:textColor="#000"
+            android:textSize="13sp" />
+
+
+        <TextView
+            android:id="@+id/login_delete"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:text="수정 및 삭제"
+            android:textColor="#000"
+            android:textSize="13sp" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/loginAdminListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>
