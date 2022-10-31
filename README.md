@@ -9,6 +9,13 @@
 
 <br/>
 
+## 📌 Project Goal
+> <h5>쓰레기 투기 등의 문제로 지구 온난화가 심각해짐에 따라, 사람들의 환경에 대한 관심은 나날이 높아지고 있습니다. 길거리를 다니다 보면 쓰레기통을 찾지 못해서, 길 바닥에 버려진 쓰레기들을 쉽게 볼 수 있습니다. </br>
+ >  길거리 쓰레기 문제를 해결하고, 환경 보호 운동에 동참하고자 앱을 기획을 하였습니다.환경 문제의 심각성을 깨닫고, 친환경 보호에 동참하는 사람들에게 이 앱이 해결책이 되어 줄 것입니다. <br/>
+ >  저희는 RECO앱을 통해 쓰레기 투기 문제의 해결을 위한 하나의 방법을 제시하고 있습니다. 길거리 정화 효과를 바탕으로 .나아가, 환경에 대한 사람들의 많은 관심을 유도하고,  환경에 대한 인식을 바꾸는 등 새로운 가치를 창출해내는 유의미한 시도가 될 것입니다
+
+</h5>
+
 ## 🗓️ Project Period
 > 2022.03 ~ 2022.11
 
@@ -31,12 +38,13 @@
 
 <br/>
 
-##### 🐰 김주희 / Joo Hee Kim
+##### 🦊 어수비 / Su Bi Eo
 <h5>기여도 |  100% </h5>
 <h5>
-  - PM, UI/UX Leader<br/>
   - Front-end / Back-end <br/>
-  - Home / Quiz / Event / Notice / auto login & Log out / Map(위치 검색, 쓰레기통 상세주소) <br/>
+  - Tech. writer <br/>
+  - Data Collect Leader <br/ >
+  - Login & Sign Up / My Page / Edit Profile / Service Center(Inqury) / Login Admin / Service Center Admin <br/>
 </h5>
 
 <br/>
@@ -65,12 +73,12 @@
 
 <br/>
 
-##### 🦊 어수비 / Su Bi Eo
+##### 🐰 김주희 / Joo Hee Kim
 <h5>기여도 |  100% </h5>
-<h5>
+<h5>  
+  - PM, UI/UX Leader<br/>
   - Front-end / Back-end <br/>
-  - Tech. writer <br/>
-  - Login & Sign Up / My Page / Edit Profile / Service Center(Inqury) / Login Admin / Service Center Admin <br/>
+  - Home / Quiz / Event / Notice / auto login & Log out / Map(위치 검색, 쓰레기통 상세주소) <br/
 </h5>
 
 <br/>
@@ -92,23 +100,14 @@
 ## About Project
 
 ### Target
-+ 쓰레기통이 꽉 채워져 있거나 버릴 곳이 없어 불편함을 느끼시는 분
+- 환경친화적인 삶을 지향하는 고객
+- 환경오염 문제에 관심이 많고, 쓰레기 무단 투여 문제에  관심이 많은 고객 
+- 플로깅 활동을 하는 고객
 
 <br/>
 
-### Skills
-+ JAVA
-+ Android Studio
-+ Firebase
 
-<br/>
-
-### Contest
-+ 제 10회 K-해커톤 본선 진출
-
-<br/>
-
-## Results
+## 🔍OverView
 
 |Page|Run ex.|
 |:--:|:-:|
@@ -118,7 +117,11 @@
 |Reco Bin|<img width="30%" height="10%" alt="recobin" src="https://user-images.githubusercontent.com/93530261/198550633-9ef4e2ca-9863-4e01-afb6-b42005a07eef.png">|
 
 <br/>
+  
+ ### 🏆Contest
++ 제 10회 K-해커톤 본선 진출
 
+<br/>
 ## Installing
 최종 완성 이후 추가 예정
 
