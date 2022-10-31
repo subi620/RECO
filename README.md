@@ -1,6 +1,9 @@
 
 # **WELCOME TO RECO☘️**
 
+<img width="80%" src="https://user-images.githubusercontent.com/92639359/198976883-495bb8ae-b324-445a-8391-417126004bac.png"/>
+
+
 ## ✏️ Description
 <h5>RECO는 태그를 이용한 쓰레기 분류 및 쓰레기통 위치 찾기 기능을 가진 친환경 어플입니다. </h5>
 
@@ -17,7 +20,7 @@
 <br/>
 
 ## BMC(비즈니스모델캔버스)
-<img width="80%" src="https://user-images.githubusercontent.com/92639359/198973311-eb90487f-116d-422c-a16c-765f91aa83b0.PNG"/>
+<img width="100%" src="https://user-images.githubusercontent.com/92639359/198973311-eb90487f-116d-422c-a16c-765f91aa83b0.PNG"/>
 
 
 <br/>
