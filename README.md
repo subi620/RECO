@@ -131,6 +131,11 @@
 
 <img width="80%" src="https://user-images.githubusercontent.com/92639359/198987516-9262dd58-b60e-4ead-b8d1-b0cd4cdc078a.PNG"/>
 
+<br/>
+
+## ✏️ ERD
+
+<img width="80%" src="✏">
   
  ### 🏆Contest
 + 제 10회 K-해커톤 본선 진출
