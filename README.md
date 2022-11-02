@@ -120,8 +120,7 @@
 |Reco Bin|<img width="30%" height="10%" alt="recobin" src="https://user-images.githubusercontent.com/93530261/198550633-9ef4e2ca-9863-4e01-afb6-b42005a07eef.png">|
 |QR|<img width="30%" height="10%" alt="QR" src="https://user-images.githubusercontent.com/92639359/199467606-26654da5-59c3-4983-94c3-6e65bbe048f1.png">|
 |Gifticon|<img width="30%" height="10%" alt="Gifticon" src="https://user-images.githubusercontent.com/92639359/199468371-ab2e3ce1-97f3-4f49-acc1-d108e9e6e3d5.png">|
-|Quiz|<img="30%" height="10%" alt="Quiz" src="https://user-images.githubusercontent.com/92639359/199468798-1d8ac282-78c5-4b90-839b-ef421d1ca5b6.png">|
-
+|Quiz|<img="30%" height="10%" alt="Quiz"src="https://user-images.githubusercontent.com/92639359/199468798-1d8ac282-78c5-4b90-839b-ef421d1ca5b6.png">|
 <br/>
 
 ## 🔧 Tech Stack
