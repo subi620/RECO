@@ -109,7 +109,7 @@
 
 ## 🔍OverView
 
-|Page|Run ex.|
+|Page|Run|
 |:--:|:-:|
 |Login|<img width="30%" height="10%" alt="Login" src="https://user-images.githubusercontent.com/92639359/199465293-5962fd1b-65fa-4710-a890-3351c00c2aaf.png">|
 |Register|<img width="30%" height="10%" alt="Register" src="https://user-images.githubusercontent.com/92639359/199466152-e3b4a9b4-35d6-4598-9226-afa6da0921d5.png">
@@ -119,6 +119,7 @@
 |Trashcan|<img width="30%" height="10%" alt="trashcan" src="https://user-images.githubusercontent.com/93530261/198550723-53c7eee9-da04-46cf-80bd-6ee3d851902c.png">|
 |Reco Bin|<img width="30%" height="10%" alt="recobin" src="https://user-images.githubusercontent.com/93530261/198550633-9ef4e2ca-9863-4e01-afb6-b42005a07eef.png">|
 |QR|<img width="30%" height="10%" alt="QR" src="https://user-images.githubusercontent.com/92639359/199467606-26654da5-59c3-4983-94c3-6e65bbe048f1.png">|
+|Gifticon|<img width="30%" height="10%" alt="Gifticon" src="https://user-images.githubusercontent.com/92639359/199468371-ab2e3ce1-97f3-4f49-acc1-d108e9e6e3d5.png">|
 
 <br/>
 
@@ -131,7 +132,6 @@
 + 제 10회 K-해커톤 본선 진출
 
 <br/>
-## Installing
-최종 완성 이후 추가 예정
+
 
 <br/>
