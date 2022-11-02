@@ -1,7 +1,7 @@
 
 # **WELCOME TO RECO☘️**
 
-<img width="80%" src="https://user-images.githubusercontent.com/92639359/198976883-495bb8ae-b324-445a-8391-417126004bac.png"/>
+<img width="50%" src="https://user-images.githubusercontent.com/92639359/198976883-495bb8ae-b324-445a-8391-417126004bac.png"/>
 
 
 ## ✏️ Description
@@ -118,7 +118,7 @@
 |Map|<img width="30%" height="10%" alt="map" src="https://user-images.githubusercontent.com/93530261/198549992-22105561-c5f9-4273-804d-8bdc741b15c0.png">|
 |Trashcan|<img width="30%" height="10%" alt="trashcan" src="https://user-images.githubusercontent.com/93530261/198550723-53c7eee9-da04-46cf-80bd-6ee3d851902c.png">|
 |Reco Bin|<img width="30%" height="10%" alt="recobin" src="https://user-images.githubusercontent.com/93530261/198550633-9ef4e2ca-9863-4e01-afb6-b42005a07eef.png">|
-|QR|<img width="30" height="10" alt="QR" src="https://user-images.githubusercontent.com/92639359/199467606-26654da5-59c3-4983-94c3-6e65bbe048f1.png">|
+|QR|<img width="30%" height="10%" alt="QR" src="https://user-images.githubusercontent.com/92639359/199467606-26654da5-59c3-4983-94c3-6e65bbe048f1.png">|
 
 <br/>
 
