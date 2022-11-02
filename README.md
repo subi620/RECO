@@ -135,12 +135,14 @@
 
 ## ✏️ ERD
 
-<img width="80%" src="✏">
+<img width="80%" src="https://user-images.githubusercontent.com/92639359/199472412-bd896228-9100-4e96-b9d5-ba9c8e18844a.jpg"/>
   
  ### 🏆Contest
-+ 제 10회 K-해커톤 본선 진출
+ 제 10회 K-해커톤 본선 진출
 
 <br/>
 
+## 📝 License
+Copyright © 2022 RECO
 
 <br/>
