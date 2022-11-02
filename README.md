@@ -1,10 +1,10 @@
 
+
 # <div align="center">
  **WELCOME TO RECO☘️**
-</div>
 
 <img width="50%" src="https://user-images.githubusercontent.com/92639359/198976883-495bb8ae-b324-445a-8391-417126004bac.png"/>
-
+</div>
 
 ## ✏️ Description
 <h5>RECO는 태그를 이용한 쓰레기 분류 및 쓰레기통 위치 찾기 기능을 가진 친환경 어플입니다. </h5>
