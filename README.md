@@ -113,13 +113,14 @@
 |:--:|:-:|
 |Login|<img width="30%" height="10%" alt="Login" src="https://user-images.githubusercontent.com/92639359/199465293-5962fd1b-65fa-4710-a890-3351c00c2aaf.png">|
 |Register|<img width="30%" height="10%" alt="Register" src="https://user-images.githubusercontent.com/92639359/199466152-e3b4a9b4-35d6-4598-9226-afa6da0921d5.png">
-|EditProfile|<img width="30%" height="10%" alt="EditProfile" src="https://user-images.githubusercontent.com/92639359/199466659-4fdbf12f-a5e9-43ec-9b6a-e766c02e9040.png">
+|Edit Profile|<img width="30%" height="10%" alt="EditProfile" src="https://user-images.githubusercontent.com/92639359/199466659-4fdbf12f-a5e9-43ec-9b6a-e766c02e9040.png">
 |Home|<img width="30%" height="10%" alt="home" src="https://user-images.githubusercontent.com/93530261/198549541-87385c32-2a04-4249-8a23-bbfa4f7dbd59.png">|
 |MyPage|<img width="30%" height="10%" alt="MyPage" src="https://user-images.githubusercontent.com/92639359/199469934-2389d90e-2d79-4427-a2cb-ab57c5274ad9.png">|
 |Map|<img width="30%" height="10%" alt="map" src="https://user-images.githubusercontent.com/93530261/198549992-22105561-c5f9-4273-804d-8bdc741b15c0.png">|
 |Trashcan|<img width="30%" height="10%" alt="trashcan" src="https://user-images.githubusercontent.com/93530261/198550723-53c7eee9-da04-46cf-80bd-6ee3d851902c.png">|
 |Reco Bin|<img width="30%" height="10%" alt="recobin" src="https://user-images.githubusercontent.com/93530261/198550633-9ef4e2ca-9863-4e01-afb6-b42005a07eef.png">|
 |QR|<img width="30%" height="10%" alt="QR" src="https://user-images.githubusercontent.com/92639359/199467606-26654da5-59c3-4983-94c3-6e65bbe048f1.png">|
+|get Point|<img width="30%" height="10%" alt="get Poing" src="https://user-images.githubusercontent.com/92639359/199471643-1cc57bea-8300-418d-bd5e-f0f40b9241c8.png">|
 |Gifticon|<img width="30%" height="10%" alt="Gifticon" src="https://user-images.githubusercontent.com/92639359/199468371-ab2e3ce1-97f3-4f49-acc1-d108e9e6e3d5.png">|
 |ServiceCenter|<img width="30%" height="10%" alt="serviceCenter" src="https://user-images.githubusercontent.com/92639359/199470614-3e0e6f46-ebb6-473f-a0d2-72d8b4d9b95e.png">|
 |Quiz|<img width="30%" height="10%" alt="Gifticon" src="https://user-images.githubusercontent.com/92639359/199469547-e923f65f-b6ac-4044-8e06-c6f2c053f599.png">|
