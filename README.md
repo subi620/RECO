@@ -121,7 +121,7 @@
 |Reco Bin|<img width="30%" height="10%" alt="recobin" src="https://user-images.githubusercontent.com/93530261/198550633-9ef4e2ca-9863-4e01-afb6-b42005a07eef.png">|
 |QR|<img width="30%" height="10%" alt="QR" src="https://user-images.githubusercontent.com/92639359/199467606-26654da5-59c3-4983-94c3-6e65bbe048f1.png">|
 |Gifticon|<img width="30%" height="10%" alt="Gifticon" src="https://user-images.githubusercontent.com/92639359/199468371-ab2e3ce1-97f3-4f49-acc1-d108e9e6e3d5.png">|
-|ServiceCenter|<img width="30%" height="10%" alt="service" src="src="https://user-images.githubusercontent.com/92639359/199470614-3e0e6f46-ebb6-473f-a0d2-72d8b4d9b95e.png">|
+|ServiceCenter|<img width="30%" height="10%" alt="serviceCenter" src="https://user-images.githubusercontent.com/92639359/199470614-3e0e6f46-ebb6-473f-a0d2-72d8b4d9b95e.png">|
 |Quiz|<img width="30%" height="10%" alt="Gifticon" src="https://user-images.githubusercontent.com/92639359/199469547-e923f65f-b6ac-4044-8e06-c6f2c053f599.png">|
 <br/>
 
