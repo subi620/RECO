@@ -1,6 +1,6 @@
 
-<div align="center">
-# **WELCOME TO RECO☘️**
+# <div align="center">
+ **WELCOME TO RECO☘️**
 </div>
 
 <img width="50%" src="https://user-images.githubusercontent.com/92639359/198976883-495bb8ae-b324-445a-8391-417126004bac.png"/>
