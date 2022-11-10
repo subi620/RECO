@@ -129,6 +129,7 @@
 |Quiz|<img width="30%" height="10%" alt="Gifticon" src="https://user-images.githubusercontent.com/92639359/199469547-e923f65f-b6ac-4044-8e06-c6f2c053f599.png">|
 |Notice|<img width="30%" height="10%" alt="Notice" src="https://user-images.githubusercontent.com/92639359/199471131-f26b729d-5068-487b-a2d8-b742a7fbab85.png">|
 |Admin Login|<img width="30%" height="10%" alt="Admin Login" src="https://user-images.githubusercontent.com/92639359/200979680-9a5a5d38-dda4-4a20-9e0c-bf440bd40112.png">|
+|Admin home|<img width="30%" height="10%" alt="Admin Home" src="https://user-images.githubusercontent.com/92639359/200979919-1690d5e1-6cca-4f45-a250-68adca7030d6.png">|
 <br/>
 
 ## 🔧 Tech Stack
