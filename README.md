@@ -40,7 +40,7 @@
 
 <br/>
 
-##### 🦊 어수비 / Su Bi Eo
+##### 🦊 어수비 / Su Bi Eo / Backend & Frontend
 <h5>기여도 |  100% </h5>
 <h5>
   - Front-end / Back-end <br/>
@@ -56,7 +56,7 @@
 <summary>members</summary>
 <div markdown="1">
   
-##### 🐱 권민주 / Min Ju Kwon
+##### 🐱 권민주 / Min Ju Kwon / Backend & Frontend
 <h5>기여도 |  100% </h5>
 <h5>
   - Front-end / Back-end <br/>
@@ -66,7 +66,7 @@
 
 <br/>
 
-##### 🐨 박서영 / Seo Young Park
+##### 🐨 박서영 / Seo Young Park / Backend & Frontend
 <h5>기여도 |  100% </h5>
 <h5>
   - Front-end / Back-end <br/>
@@ -76,7 +76,7 @@
 
 <br/>
 
-##### 🐰 김주희 / Joo Hee Kim
+##### 🐰 김주희 / Joo Hee Kim / Backend & Frontend
 <h5>기여도 |  100% </h5>
 <h5>  
   - PM, UI/UX Leader<br/>
@@ -86,7 +86,7 @@
 
 <br/>
 
-##### 🐶 손다정 / Da Jeong Son
+##### 🐶 손다정 / Da Jeong Son / / Backend & Frontend
 <h5>기여도 |  100% </h5>
 <h5>
   - Front-end / Back-end <br/>
