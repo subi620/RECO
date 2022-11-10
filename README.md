@@ -128,6 +128,7 @@
 |write ServiceCenter|<img width="30%" height="10%" alt="serviceCenter" src="https://user-images.githubusercontent.com/92639359/199470614-3e0e6f46-ebb6-473f-a0d2-72d8b4d9b95e.png">|
 |Quiz|<img width="30%" height="10%" alt="Gifticon" src="https://user-images.githubusercontent.com/92639359/199469547-e923f65f-b6ac-4044-8e06-c6f2c053f599.png">|
 |Notice|<img width="30%" height="10%" alt="Notice" src="https://user-images.githubusercontent.com/92639359/199471131-f26b729d-5068-487b-a2d8-b742a7fbab85.png">|
+|Admin Login|<img width="30%" height="10%" alt="Admin Login" src="https://user-images.githubusercontent.com/92639359/200979680-9a5a5d38-dda4-4a20-9e0c-bf440bd40112.png">|
 <br/>
 
 ## 🔧 Tech Stack
