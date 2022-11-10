@@ -45,8 +45,9 @@
 <h5>
   - Front-end / Back-end <br/>
   - Tech. writer <br/>
-  - Data Collect Leader <br/ >
-  - Login & Sign Up / My Page / Edit Profile / Service Center(Inqury) / Login Admin / Service Center Admin <br/>
+  - Data Collect Leader <br/ > <br/>
+  - 로그인 / 회원가입 / 마이페이지 / 개인정보 수정 / Service Center Inquiry(문의 작성) / Service Center History(문의 내역) <br/>
+  - Login Admin / Admin User List /Service Center Admin <br/>
 </h5>
 
 <br/>
